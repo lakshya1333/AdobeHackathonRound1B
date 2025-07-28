@@ -1,38 +1,33 @@
-# Adobe Hackathon Round 1B - Intelligent Document Analyzer
-# Optimized Docker container for CPU-only operation
+FROM python:3.9
 
-FROM --platform=linux/amd64 python:3.12-slim
-
-# Set working directory
 WORKDIR /app
 
-# Install system dependencies for PyMuPDF
+# Install system dependencies
 RUN apt-get update && apt-get install -y \
-    build-essential \
+    gcc \
+    g++ \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements and install dependencies
+# Copy requirements and install Python dependencies (prefer binary wheels)
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --prefer-binary -r requirements.txt
 
-# Create input/output directories
-RUN mkdir -p /app/input /app/output /app/cache
+# Pre-download Sentence Transformers model for offline use
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')"
+
+# Set offline mode for HuggingFace libraries
+ENV TRANSFORMERS_OFFLINE=1 \
+    HF_DATASETS_OFFLINE=1
 
 # Copy application code
 COPY intelligent_document_analyzer.py .
-COPY cache/ ./cache/
 
-# Set environment variables for optimal performance
-ENV PYTHONUNBUFFERED=1
-ENV TOKENIZERS_PARALLELISM=false
-ENV HF_HOME=/app/cache
+# Create directories for input/output
+RUN mkdir -p /app/input /app/output /app/documents
 
-# Expose volumes for input/output
-VOLUME ["/app/input", "/app/output"]
+# Set environment variables to ensure CPU-only execution
+ENV CUDA_VISIBLE_DEVICES=""
+ENV OMP_NUM_THREADS=4
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-    CMD python -c "import sys; sys.exit(0)"
-
-# Run the intelligent document analyzer
+# Entry point
 CMD ["python", "intelligent_document_analyzer.py"]
