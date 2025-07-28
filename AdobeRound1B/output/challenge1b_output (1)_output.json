@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1",
+      "Learn Acrobat - Create and Convert_2",
+      "Learn Acrobat - Edit_1",
+      "Learn Acrobat - Edit_2",
+      "Learn Acrobat - Export_1",
+      "Learn Acrobat - Export_2",
+      "Learn Acrobat - Generative AI_1",
+      "Learn Acrobat - Generative AI_2",
+      "Learn Acrobat - Request e-signatures_1",
+      "Learn Acrobat - Request e-signatures_2",
+      "Learn Acrobat - Share_1",
+      "Learn Acrobat - Share_2",
+      "Test Your Acrobat Exporting Skills",
+      "The Ultimate PDF Sharing Checklist"
+    ],
+    "persona": {
+      "role": "HR professional"
+    },
+    "job_to_be_done": {
+      "task": "Create and manage fillable forms for onboarding and compliance."
+    },
+    "processing_timestamp": "2025-07-28T22:25:20.328654",
+    "processing_time_seconds": 10.51,
+    "total_sections_found": 451,
+    "top_sections_analyzed": 25,
+    "subsections_generated": 20
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 10,
+      "section_title": "1. List the participants required.",
+      "importance_rank": 1,
+      "confidence_score": 0.3019
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 13,
+      "section_title": "8 Click Next in the upper right corner of the window",
+      "importance_rank": 2,
+      "confidence_score": 0.2937
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 5,
+      "section_title": "Simplified mode for multiple signers",
+      "importance_rank": 3,
+      "confidence_score": 0.2865
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 14,
+      "section_title": "Advanced authoring:",
+      "importance_rank": 4,
+      "confidence_score": 0.2802
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 15,
+      "section_title": "Supports calculated fields",
+      "importance_rank": 5,
+      "confidence_score": 0.2769
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 20,
+      "section_title": "Sign documents",
+      "importance_rank": 6,
+      "confidence_score": 0.2752
+    },
+    {
+      "document": "Learn Acrobat - Export_1",
+      "page_number": 16,
+      "section_title": "Include Images",
+      "importance_rank": 7,
+      "confidence_score": 0.2701
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 9,
+      "section_title": "Before You Begin",
+      "importance_rank": 8,
+      "confidence_score": 0.2687
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 21,
+      "section_title": "Set privileges and permissions for others",
+      "importance_rank": 9,
+      "confidence_score": 0.2684
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 3,
+      "section_title": "Optional To explore advanced options including signer authentication reminders",
+      "importance_rank": 10,
+      "confidence_score": 0.2681
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2",
+      "page_number": 11,
+      "section_title": "2. Select Add Verification Information.",
+      "importance_rank": 11,
+      "confidence_score": 0.2652
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2",
+      "page_number": 16,
+      "section_title": "Common questions",
+      "importance_rank": 12,
+      "confidence_score": 0.2621
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 10,
+      "section_title": "Android Version 9 and later",
+      "importance_rank": 13,
+      "confidence_score": 0.2607
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist",
+      "page_number": 2,
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 14,
+      "confidence_score": 0.2607
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "page_number": 6,
+      "section_title": "You can switch the assignee of any field using the floating toolbar The assigned",
+      "importance_rank": 15,
+      "confidence_score": 0.2585
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 2,
+      "section_title": "Overview of generative AI features",
+      "importance_rank": 16,
+      "confidence_score": 0.2564
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1",
+      "page_number": 27,
+      "section_title": "Create PDFs from Word mail merges",
+      "importance_rank": 17,
+      "confidence_score": 0.2502
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 15,
+      "section_title": "2. Under the Microsoft Teams icon, select Sign in to Teams and enter your login",
+      "importance_rank": 18,
+      "confidence_score": 0.248
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2",
+      "page_number": 9,
+      "section_title": "3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the",
+      "importance_rank": 19,
+      "confidence_score": 0.2467
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2",
+      "page_number": 14,
+      "section_title": "5. Once your purchase is complete, you can assign licenses to users from the Add users",
+      "importance_rank": 20,
+      "confidence_score": 0.2441
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1",
+      "page_number": 15,
+      "section_title": "3. Enter a filename and location for the PDF, and select Save.",
+      "importance_rank": 21,
+      "confidence_score": 0.2436
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 14,
+      "section_title": "The key advantages of streaming summaries include:",
+      "importance_rank": 22,
+      "confidence_score": 0.2429
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills",
+      "page_number": 1,
+      "section_title": "Export Expert Test Your Acrobat Exporting Skills",
+      "importance_rank": 23,
+      "confidence_score": 0.2422
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2",
+      "page_number": 4,
+      "section_title": "Read-aloud generated responses",
+      "importance_rank": 24,
+      "confidence_score": 0.2407
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "page_number": 15,
+      "section_title": "Prerequisites",
+      "importance_rank": 25,
+      "confidence_score": 0.2404
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "1. List the participants required.",
+      "refined_text": "• The Sign action is assigned by default. • The Sign action allows the participant to enter field data and sign the agreement. • Up to 50 participants are supported. • Each participant listed receives their own agreement.",
+      "page_number": 10,
+      "relevance_score": 0.3019
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "8 Click Next in the upper right corner of the window",
+      "refined_text": "8. Click Next in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. Note: If you have added multiple files, the files are converted into PDFs and combined into a single document. The combined document is opened for you to add fields.",
+      "page_number": 13,
+      "relevance_score": 0.2937
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Simplified mode for multiple signers",
+      "refined_text": "• Simplified mode for multiple signers This mode provides simplified authoring with the capability of assigning fields to multiple signers. When you select a signer from the right pane and add fields in the form, the fields are assigned to the signer. That means those fields will be available to the signer for filling the information and signing the form.",
+      "page_number": 5,
+      "relevance_score": 0.2865
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Advanced authoring:",
+      "refined_text": "• Allows access to all field types (highlighted in yellow) • Supports form field detection (highlighted in green) • Supports Prefill fields (highlighted in pink) • Supports field assignment (highlighted in purple and pink) • Supports field validation.",
+      "page_number": 14,
+      "relevance_score": 0.2802
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Supports calculated fields",
+      "refined_text": "• Supports calculated fields • Supports conditional fields • Allows control of the field text font/appearance • Places fields by dragging them from the menu on the right side of the document. • Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size.",
+      "page_number": 15,
+      "relevance_score": 0.2769
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Sign documents",
+      "refined_text": "• Sign PDF files using certificate IDs • Place a signature box anywhere on the page • Add multiple signatures to a page • Add a time stamp to the document when working with a configured timestamp server • Certify a document with a visible or hidden signature so that recipients can verify authenticity with or without seeing a visible signature on the page • Automatically embed certificate data to support long-term validation Validate documents • Validate all signatures, confirming the identity of everyone who signed the document • Validate document integrity by tracking all previously signed versions of a document to verify changes made during the document’s lifecycle.",
+      "page_number": 20,
+      "relevance_score": 0.2752
+    },
+    {
+      "document": "Learn Acrobat - Export_1",
+      "section_title": "Include Images",
+      "refined_text": "Specifies if images are exported when you export a PDF as HTML. Detect and Remove Headers and Footers Specifies if header and footer content in the PDF should be deleted and removed from the HTML files. Text recogniƟon seƫngs.",
+      "page_number": 16,
+      "relevance_score": 0.2701
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "section_title": "Before You Begin",
+      "refined_text": "Before you begin, ensure that you adhere to the file and usage-related restrictions and login requirements. File considerations • The language of the PDF file is English, French, German, Spanish, Italian, Brazilian Portuguese, or Japanese. • The file size must be less than 100 MB. • The file can have up to 600 pages. • The PDF shouldn’t be password protected or have any usage restrictions. • The file shouldn’t be a PDF Portfolio. • The maximum character limit for the text selection feature in AI Assistant is 8000 characters. The selected text must be on a single page and cannot span multiple pages.",
+      "page_number": 9,
+      "relevance_score": 0.2687
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Set privileges and permissions for others (Part 1)",
+      "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures?",
+      "page_number": 21,
+      "relevance_score": 0.2684
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Set privileges and permissions for others (Part 2)",
+      "refined_text": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly. And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure.",
+      "page_number": 21,
+      "relevance_score": 0.2684
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Optional To explore advanced options including signer authentication reminders (Part 1)",
+      "refined_text": "• (Optional) To explore advanced options including signer authentication, reminders, and more, click More Options. • To add form fields and specify where to sign, click Specify where to sign. Request signatures – Add Cc, subject, message, More Options • If you don't want to use the More Options, skip the next optional step. 4. (Optional) Click More Options, if you want to specify advanced options, such as signer authentication, reminders, and more. • By default, the Complete in Order setting is turned on. The numbers by the email addresses reflect the participation order. If you do not want to follow any particular order for signing, toggle the switch to Complete In Any Order. (Optional) Click Add Me, if you want to be included as a signer of the document.",
+      "page_number": 3,
+      "relevance_score": 0.2681
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "Optional To explore advanced options including signer authentication reminders (Part 2)",
+      "refined_text": "• Specify authentication type like Email, Password, Social Identity, Knowledge- Based Authentication, Phone, or Acrobat Sign. • Password Protect the PDF file. • Set a Completion Deadline. • Specify the Recipient's Language in the email sent.",
+      "page_number": 3,
+      "relevance_score": 0.2681
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2",
+      "section_title": "2. Select Add Verification Information.",
+      "refined_text": "Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard. The command is unavailable if the signature is invalid, or is signed with a self-signed certificate. The command is also unavailable in case the verification time equals the current time.",
+      "page_number": 11,
+      "relevance_score": 0.2652
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2",
+      "section_title": "Common questions (Part 1)",
+      "refined_text": "Common questions I have multiple profiles associated with my Adobe account. How do I select which profile to send a request from? If you have multiple profiles associated with your organization-provided Adobe account, you must first choose which profile to sign in with. Then, request a product from that profile. The request will be routed to the organization and administrators associated with that profile. What if I can’t find the option to request access to AI Assistant for Acrobat? If you can't find the option to request access to a product, your administrator may not have enabled the option for your organization. Contact your administrator to learn more. What notifications do I receive if a request is approved, declined, or pending?",
+      "page_number": 16,
+      "relevance_score": 0.2621
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2",
+      "section_title": "Common questions (Part 2)",
+      "refined_text": "You receive email notifications when an administrator responds to your request, when the request has been pending for 30 days, or when it expires after 60 days. Learn more about the statuses and notifications. What happens if my request is declined? If your request is denied, you'll receive an email explaining why. Once declined, you can re- request AI Assistant for Acrobat from your organization. Administer AI Assistant for enterprises Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. It provides centralized license management and enterprise- level technical support for adequate user support at scale.",
+      "page_number": 16,
+      "relevance_score": 0.2621
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "section_title": "Android Version 9 and later",
+      "refined_text": "• Android: Version 9 and later • Windows and macOS: See Acrobat system requirements. Supported browsers See Technical requirements for Acrobat on the web. Get AI-generated answers AI Assistant supports scanned documents. You can scan your paper documents and upload them to Acrobat to get concise summaries and accurate answers to your questions. It also breaks down complex language into key details, making it easy to read and understand contracts directly in Acrobat. AI Assistant The AI Assistant feature provides AI-generated answers to your questions based on the content of the selected files. It also highlights the portion of content from where it fetches the answer for more context. The AI Assistant also suggests follow-up questions based on your.",
+      "page_number": 10,
+      "relevance_score": 0.2607
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist",
+      "section_title": "Professional Tip: Clear Instructions",
+      "refined_text": "Ensure your email instructions are clear and concise to avoid any confusion for your recipients. Sharing Checklist for Real Estate Professionals In the real estate industry, sharing documents efficiently is crucial for closing deals and keeping clients informed. Here's a tailored checklist to help you manage your PDF sharing needs.",
+      "page_number": 2,
+      "relevance_score": 0.2607
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1",
+      "section_title": "You can switch the assignee of any field using the floating toolbar The assigned",
+      "refined_text": "• You can switch the assignee of any field using the floating toolbar. The assigned colors to the signers make it easy to distinguish the fields for respective signers. • Advanced mode for multiple signers If you've added multiple signers, you see the options as shown below. Click the button to place the detected form fields in the PDF document. Alternatively, drag fields from the tabs in the right pane and drop the fields where desired in the document.",
+      "page_number": 6,
+      "relevance_score": 0.2585
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "section_title": "Overview of generative AI features (Part 1)",
+      "refined_text": "Overview of generative AI features Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through lengthy, complex PDF content and get answers or generate a summary. Note: The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe's Generative AI User Guidelines. To understand Adobe's data handling practices, see Content usage and handling practices. The AI-powered features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and Zoom meeting transcripts. The capabilities improve comprehension and save time across various document types.",
+      "page_number": 2,
+      "relevance_score": 0.2564
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1",
+      "section_title": "Overview of generative AI features (Part 2)",
+      "refined_text": "AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and informative way. It can analyze multiple documents to uncover similarities, differences, and key patterns. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts. It links to text and data table sources within the document. It also suggests follow-up questions for you based on the primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more accurate and clear answers to your queries based on more citations. It can extract information accurately from tables and complex documents. Generative summary automatically provides an outline with headings and summaries to highlight key points in the document. The feature generates key insights that help you easily comprehend the PDF content. For a speedier response, it processes PDF content in chunks and simultaneously streams summaries. You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google.",
+      "page_number": 2,
+      "relevance_score": 0.2564
+    }
+  ]
+}
